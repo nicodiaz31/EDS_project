@@ -1,0 +1,46 @@
+[
+    {
+        "id" : "home",
+        "title": "Environmental Development & Sustainability Inc.",
+        "content": [
+            "2003. EDS is a corporation registered in Puerto Rico. It is a women-owned and small business enterprise. (Cage No. 3GKN6. DUNS No. 131643897. Primary NAICS Code: 541620).",
+            "Its leaders have more than 35 years of shared national and international experience in the environmental field.", 
+            "EDS is an environmental consultant dedicated to providing support to its clients to improve their environmental performance and relationship with local communities to attain sustainable development.",
+            "EDS offers services in Puerto Rico to the private and public sectors."
+        ],
+        "button": "See More!"
+    },
+    {
+        "id" : "aboutUs",
+        "title": "About us EDS",
+        "content": [
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis consequatur, reiciendis excepturi alias magni tempora placeat totam quos amet ipsam quaerat consectetur exercitationem nisi sed illum cupiditate dolorum perferendis."
+        ],
+        "button": "See more about us!"
+    },
+    {
+        "id" : "news",
+        "title": "EDS News",
+        "content": [
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis consequatur, reiciendis excepturi alias magni tempora placeat totam quos amet ipsam quaerat consectetur exercitationem nisi sed illum cupiditate dolorum perferendis."
+        ],
+        "button": "See our news!"
+    },
+    {
+        "id" : "projects",
+        "title": "EDS Projects",
+        "content": [
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis consequatur, reiciendis excepturi alias magni tempora placeat totam quos amet ipsam quaerat consectetur exercitationem nisi sed illum cupiditate dolorum perferendis."
+        ],
+        "button": "See our projects!"
+    },
+    {
+        "id" : "services",
+        "title": "EDS Services",
+        "content": [
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid officiis consequatur, reiciendis excepturi alias magni tempora placeat totam quos amet ipsam quaerat consectetur exercitationem nisi sed illum cupiditate dolorum perferendis."
+        ],
+        "button": "See the services we offer!"
+    }
+
+]

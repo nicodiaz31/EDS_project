@@ -1,0 +1,26 @@
+[
+    {
+        "id":0,
+        "imgbg": "fondo1.jpg",
+        "imgProfile": "SoniaCosme.jpg",
+        "name": "Sonia",
+        "lastname": "Cosme",
+        "email": "soniacosme@edspuertorico.com"
+    },
+    {
+        "id": 1,
+        "imgbg": "fondo2.jpg",
+        "imgProfile": "EliasDiaz.png",
+        "name": "Elias",
+        "lastname": "Díaz",
+        "email": "eliasdiaz@edspuertorico.com"
+    },
+    {
+        "id": 2,
+        "imgbg": "footer_background_sm.jpg",
+        "imgProfile": "ElvelisseFigueroa.jpg",
+        "name": "Elvelisse",
+        "lastname": "Figueroa",
+        "email": "efigueroa@edspuertorico.com"
+    }
+]
